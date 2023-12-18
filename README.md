@@ -13,13 +13,7 @@ FlutterAuthScreens is a Flutter repository showcasing clean authentication UI sc
 
 <p align="center">
   <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/1.png">
-</p>
-
-<p align="center">
   <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/2.png">
-</p>
-
-<p align="center">
   <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/3.png">
 </p>
 
