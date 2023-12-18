@@ -11,15 +11,15 @@ FlutterAuthScreens is a Flutter repository showcasing clean authentication UI sc
 - **Password Recovery:** Offers a way to recover forgotten passwords.
 ## ScreenShots
 <p align="center">
-  <img width="460" height="300" src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/1.png">
+  <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/1.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/2.png">
+  <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/2.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/3.png">
+  <img  src="https://github.com/predictor47/FlutterAuthScreens/blob/main/images/3.png">
 </p>
 
 
