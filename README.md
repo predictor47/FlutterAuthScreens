@@ -1,6 +1,6 @@
 # FlutterAuthScreens
 
-![Flutter Logo](https://flutter.dev/images/flutter-logo-sharing.png)
+![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png)
 
 ## Overview
 FlutterAuthScreens is a Flutter repository showcasing clean authentication UI screens. It provides clear examples of login, registration, and password recovery screens implemented using Flutter widgets and best practices.
