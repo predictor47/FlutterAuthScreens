@@ -10,6 +10,11 @@ FlutterAuthScreens is a Flutter repository showcasing clean authentication UI sc
 - **Registration Screen:** Enables users to sign up for the service.
 - **Password Recovery:** Offers a way to recover forgotten passwords.
 ## ScreenShots
+![image](https://github.com/predictor47/FlutterAuthScreens/images/1.png)
+![image](https://github.com/predictor47/FlutterAuthScreens/images/2.png)
+![image](https://github.com/predictor47/FlutterAuthScreens/images/3.png)
+
+
 
 
 ## Installation
